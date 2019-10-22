@@ -1,5 +1,6 @@
 """
 @author = Abu Zayed
+@name = Rock, Paper, Scissor
 """
 
 from random import randint
