@@ -1,3 +1,7 @@
+""""
+@author: Abu Zayed
+@Name: Dictionary search using data.json 
+""""
 import json
 import difflib
 from difflib import SequenceMatcher
